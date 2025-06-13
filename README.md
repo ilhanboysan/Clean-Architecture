@@ -17,3 +17,6 @@ This is a base infrastructure project built following the principles of **Clean 
 - **Infrastructure**: Technical implementations (e.g., database, external services)
 - **Web / API**: Entry point of the application (e.g., REST API or UI)
 
+# 📬 Contact
+- 📧 E-mail: ilhanboysan@gmail.com
+- 📌 LinkedIn: [linkedin.com/in/username](https://www.linkedin.com/in/ilhan-boysan/)
