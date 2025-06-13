@@ -17,9 +17,3 @@ This is a base infrastructure project built following the principles of **Clean 
 - **Infrastructure**: Technical implementations (e.g., database, external services)
 - **Web / API**: Entry point of the application (e.g., REST API or UI)
 
-Project Structure
-/src
- ┣ /Domain
- ┣ /Application
- ┣ /Infrastructure
- ┗ /Web
